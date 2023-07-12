@@ -1,0 +1,40 @@
+body {
+    background: url("background.jpg");
+    background-size: cover;
+    font-family: Poppins, sans-serif;
+    padding: 20px 0;
+    margin: 0;
+    text-align: center;
+}
+
+span {
+    border-bottom: 2px solid black;
+    padding: 4px;
+}
+
+button {
+    margin: 20px 0;
+    background: white;
+    color: black;
+    border: 1px solid black;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 5px 8px;
+}
+
+.container{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    margin-top: 10%;
+    margin-right: 80px;
+}
+
+.console{
+    background-color: rgba(232, 255, 127, 0.571);
+    border: 5px solid blueviolet;
+    border-radius: 8px;
+    padding: 8px;
+    padding-bottom: 20px;
+    
+}
